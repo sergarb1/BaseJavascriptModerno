@@ -2,8 +2,8 @@
     "presets": [
       ["@babel/preset-env", {
         "targets": {
-          "node": "current"
-          //"firefox": "71"
+          //"node": "current"
+          "firefox": "81"
           //"ie": "6"
         }
       }]
